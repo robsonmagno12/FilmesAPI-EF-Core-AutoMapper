@@ -1,2 +1,2 @@
 # FilmesAPI-EF-Core-AutoMapper
-# API Filmes com DTO, AutoMapper, Etity Framework, Conexão MySQL Workbench
+# API Filmes com DTO, AutoMapper, Entity Framework(EF), Conexão MySQL Workbench
